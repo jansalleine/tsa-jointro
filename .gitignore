@@ -1,0 +1,10 @@
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+*.avi
+labels.asm
+out.prg
+release
+*.zip
